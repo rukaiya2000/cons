@@ -85,18 +85,18 @@ p{
   color: #E1CF74 !important;
   outline: none;
 } 
-@media (max-width:629px) {
+/*@media (max-width:629px) {
   .nav-link {
     padding: 5px!important;
-    font-size: 15px!important;
+    font-size: 15px!important; */
     
   }
 }
-@media (max-width:629px) {
+/* @media (max-width:629px) {
   .icons {
     display: none;
   }
-}
+}*/
 
 
 
