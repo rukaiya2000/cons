@@ -29,6 +29,11 @@ height: 50px;
 .top{
   background: #f7e8a0;
 }
+media (max-width:629px) {
+  .navbar-toggler {
+    margin-right: 10px;
+  }
+}
 
 p{
   color: #494111;
