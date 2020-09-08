@@ -18,20 +18,24 @@ body {
   @media (max-width:629px) {
     .icons {
       font-size: 0.6rem;
+      margin-left: -18px;
     }
   }
   .mobileoasis{
-    margin-left: -260px!important;
+    /* margin-left: -70px!important; */
     height:70px;
     
   }
 
-i{
-  color: #2B2609;
-  transition: all 2s ease-in-out;
-}
+.icons i{
+  color: #c8ae2b;
+  transition: all 2s ease-in-out;}
+  i{
+color: #331f0f;
+  }
+
 i:hover {
-  color:#111111 ;
+  
   transform: translateY(-5px);
 }
 
@@ -61,12 +65,7 @@ p{
 .add{
   background-color: #E1CF74;
 }
-.oi {
-  color: #E1CF74!important;
-}
-.oi:focus, .oi:hover {
-  outline: none;;
-}
+
 .topper {
   font-size: 15px;
   width: 100%;
@@ -650,10 +649,6 @@ textarea.form-control {
     height: 400px;
     margin-bottom: 30px; } }
 
-.image-popup {
-  cursor: -webkit-zoom-in;
-  cursor: -moz-zoom-in;
-  cursor: zoom-in; }
 
 .ftco-intro {
   position: relative;
