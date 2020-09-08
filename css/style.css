@@ -6,6 +6,26 @@ body {
   font-weight: 400;
   color: gray;
   overflow-x: hidden; }
+
+.xaltam{
+     width: 100px;
+   }
+@media (min-width:629px) {
+    img.mobileoasis {
+      display: none;
+    }
+  }
+  @media (max-width:629px) {
+    .icons {
+      font-size: 0.6rem;
+    }
+  }
+  .mobileoasis{
+    margin-left: -260px!important;
+    height:70px;
+    
+  }
+
 i{
   color: #2B2609;
   transition: all 2s ease-in-out;
