@@ -111,13 +111,7 @@ p{
     font-size: 15px!important;
     
   }
-} @media (max-width:629px) {
-  .icons {
-    display: none;
-  }
 }
-
-
 
 .navbar-toggler:focus .navbar-toggler:hover .navbar-toggler:active{
   color: #E1CF74 !important;
@@ -162,7 +156,7 @@ p{
   padding: 0;
   margin-left: -15px!important;
   line-height: 1; }
-  .navbar-brand img{
+  .oasis{
     width: 250px!important;
   }
 .owl-carousel {
